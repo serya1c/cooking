@@ -7,6 +7,7 @@
 | Рецепт | Время | Выход | Папка |
 |---|---|---|---|
 | [Сдобные сахарные булочки](saharnye-bulochki/) | ~2 ч | 7 шт по 60 г | `saharnye-bulochki` |
+| [Жидкая пшеничная каша на молоке](pshenichnaya-kasha-na-moloke/) | ~40 мин | 4 порции | `pshenichnaya-kasha-na-moloke` |
 
 ## Структура
 
