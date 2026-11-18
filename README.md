@@ -6,12 +6,13 @@
 
 | Рецепт | Время | Выход | Папка |
 |---|---|---|---|
-| [Сдобные сахарные булочки](saharnye-bulochki/) | ~2 ч | 7 шт по 60 г | `saharnye-bulochki` |
+| [Жареная лапша с фаршем и чили-маслом](lapsha-s-farshem/) | ~15 мин | 2 порции | `lapsha-s-farshem` |
 | [Жидкая пшеничная каша на молоке](pshenichnaya-kasha-na-moloke/) | ~40 мин | 4 порции | `pshenichnaya-kasha-na-moloke` |
 | [Каша рисовая молочная](risovaya-kasha-molochnaya/) | ~30 мин | 3 порции | `risovaya-kasha-molochnaya` |
+| [Корейский салат](koreyskiy-salat/) | ~30 мин | 2 порции | `koreyskiy-salat` |
 | [Мандариновый Ягермайстер](mandarinovyy-yagermeister/) | ~5 мин | 1 порция | `mandarinovyy-yagermeister` |
-| [Жареная лапша с фаршем и чили-маслом](lapsha-s-farshem/) | ~15 мин | 2 порции | `lapsha-s-farshem` |
 | [Салат Харбин (Хэйхэ)](salat-harbin/) | ~40 мин | 4 порции | `salat-harbin` |
+| [Сдобные сахарные булочки](saharnye-bulochki/) | ~2 ч | 7 шт по 60 г | `saharnye-bulochki` |
 
 ## Структура
 
