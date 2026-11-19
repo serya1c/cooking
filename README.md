@@ -7,6 +7,7 @@
 | Рецепт | Время | Выход | Папка |
 |---|---|---|---|
 | [Жареная лапша с фаршем и чили-маслом](lapsha-s-farshem/) | ~15 мин | 2 порции | `lapsha-s-farshem` |
+| [Жареный рис с говядиной](zharenyy-ris-s-govyadinoy/) | ~25 мин | 2 порции | `zharenyy-ris-s-govyadinoy` |
 | [Жидкая пшеничная каша на молоке](pshenichnaya-kasha-na-moloke/) | ~40 мин | 4 порции | `pshenichnaya-kasha-na-moloke` |
 | [Каша рисовая молочная](risovaya-kasha-molochnaya/) | ~30 мин | 3 порции | `risovaya-kasha-molochnaya` |
 | [Корейский салат](koreyskiy-salat/) | ~30 мин | 2 порции | `koreyskiy-salat` |
