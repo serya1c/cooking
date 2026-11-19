@@ -11,6 +11,7 @@
 | [Жидкая пшеничная каша на молоке](pshenichnaya-kasha-na-moloke/) | ~40 мин | 4 порции | `pshenichnaya-kasha-na-moloke` |
 | [Каша рисовая молочная](risovaya-kasha-molochnaya/) | ~30 мин | 3 порции | `risovaya-kasha-molochnaya` |
 | [Корейский салат](koreyskiy-salat/) | ~30 мин | 2 порции | `koreyskiy-salat` |
+| [Курица с овощами в соусе хойсин](kuritsa-v-soyse-hoycin/) | ~40 мин | 2 порции | `kuritsa-v-soyse-hoycin` |
 | [Мандариновый Ягермайстер](mandarinovyy-yagermeister/) | ~5 мин | 1 порция | `mandarinovyy-yagermeister` |
 | [Салат Харбин (Хэйхэ)](salat-harbin/) | ~40 мин | 4 порции | `salat-harbin` |
 | [Сдобные сахарные булочки](saharnye-bulochki/) | ~2 ч | 7 шт по 60 г | `saharnye-bulochki` |
